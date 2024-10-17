@@ -1,0 +1,20 @@
+{
+  "name": "back-end_api-rest",
+  "version": "1.0.0",
+  "description": "Backend API-Rest 2024-II",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ByIUDJuanda",
+  "license": "ISC",
+  "dependencies": {
+    "back-end_api-rest": "file:",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1",
+    "mongoose": "^8.7.1",
+    "uuid": "^10.0.0"
+  }
+}
